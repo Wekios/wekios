@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on Open Source 
 - 💬 Ask me about Javascript, Front-end Architecture, React.js 
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
-
 ### Some of my Github Stats
 ![Wekios's github stats](https://github-readme-stats.vercel.app/api?username=wekios&count_private=true&hide=prs)
+<br/>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
