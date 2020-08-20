@@ -3,7 +3,7 @@
 #### I'm a seasoned front-end developer with a strong sense for aesthetics and interaction and deeply in love with the art of programming.
 
 **Get in touch:**
-[![Linkedin Badge](https://img.shields.io/badge/-wekios-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wekios/)](https://www.linkedin.com/in/wekios/)
+[![Linkedin Badge](https://img.shields.io/badge/-wekios-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/veljkoblagojevic/)](https://www.linkedin.com/in/wekios/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/wekios?label=follow&style=social)](https://twitter.com/wekios)
 ![Profile views](https://gpvc.arturio.dev/wekios)
 
