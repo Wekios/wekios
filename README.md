@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Veljko,
+## Hi there 👋  my name is Veljko,
 ### but you can call me Wekios.
 #### I'm a seasoned front-end developer with a strong sense for aesthetics and interaction and deeply in love with the art of programming.
 
