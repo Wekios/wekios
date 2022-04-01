@@ -8,7 +8,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/wekios?label=follow&style=social)](https://twitter.com/wekios)
 ![Profile views](https://gpvc.arturio.dev/wekios)
 
-- 🌱 I’m currently learning Next.js 
+- 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on Open Source 
 - 💬 Ask me about Javascript, Front-end Architecture, React.js
 
