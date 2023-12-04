@@ -6,7 +6,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-wekios-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/veljkoblagojevic/)](https://www.linkedin.com/in/veljkoblagojevic/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/wekios?label=follow&style=social)](https://twitter.com/wekios)
-![Profile views](https://gpvc.arturio.dev/wekios)
 
 - 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on Open Source 
